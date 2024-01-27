@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=habibsojol&show_icons=true&locale=en&layout=compact" alt="habibsojol" /></p>
 
-<p>&nbsp;<img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=habibsojol&show_icons=true&locale=en" alt="habibsojol" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=habibsojol&show_icons=true&locale=en" alt="habibsojol" /></p>
 
-<p><img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/?user=habibsojol&" alt="habibsojol" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/?user=habibsojol&" alt="habibsojol" /></p>
